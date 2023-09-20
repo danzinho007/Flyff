@@ -33,6 +33,8 @@ Diabo Voador Lv 155
 Esmagador de Ivilis Lv 175
 Destruidor de Ivilis Lv 175
 Guardião de Ivilis Lv 185
+Diabo Voador Robusto Lv 190
+Diabo Voador Capitão Lv 193
 
 NPCs :
 Acrobata
@@ -56,6 +58,8 @@ Helgar
 Heltung
 Herth
 Hotse
+Inisis
+Karandurr
 Katna
 Kurmin
 Langdrong
